@@ -1,5 +1,6 @@
 # 💫 About Me:
-Olá, me chamo Lucas, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.<br>Iniciei minha carreira como vendedor em 2021, e na área desenvolvi habilidades de comunicação, trabalho em equipe, gestão de processos e relacionamento interpessoal.<br><br>Minhas tecnologias:<br>.NET<br>C#<br>ASP NET<br>Entity Framework<br>Razor Pages<br>SQL Server e MySQL<br>Git e GitHub<br>Angular<br>JavaScript<br>HTML e CSS
+Olá, me chamo Lucas, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.<br>Iniciei minha carreira como vendedor em 2021, e na área desenvolvi habilidades de comunicação, trabalho em equipe, gestão de processos e relacionamento interpessoal.<br><br>Minhas tecnologias:<br>.NET<br>C#<br>ASP NET<br>Entity Framework<br>Razor Pages<br>SQL Server e MySQL<br>Git e GitHub<br>Angular<br>JavaScript<br>HTML e CSS <br>
+Não me prendo a tecnologia, se for necessário estudar uma nova, estou super disposto
 
 
 ## 🌐 Socials:
